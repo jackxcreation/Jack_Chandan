@@ -37,3 +37,7 @@
 
 <div id="about-en" class="language-content">
 
+</div>
+
+<div id="about-jp" class="language-content" style="display: none;">
+
